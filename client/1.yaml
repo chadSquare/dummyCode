@@ -1,0 +1,19 @@
+---
+  clientId: 1
+  firstName: "Chad"
+  lastName: "Square"
+  occupation: "Software developer"
+  age: 27
+  hobbies:
+    - gaming
+    - watching series
+    - working out
+  contactDetails:
+    cellphone: "0796968716"
+    email: "chadajsquare@gmail.com"
+    address:
+      streetName: "Clover Road"
+      houseNumber: 7
+      suburb: "Belville"
+      province: "Western Cape"
+

@@ -1,0 +1,18 @@
+---
+  clientId: 3
+  firstName: "Sarah"
+  lastName: "Mckenzie"
+  occupation: "Graphic Designer"
+  age: 25
+  hobbies:
+    - running
+    - reading
+    - dog training
+  contactDetails:
+    cellphone: "087145495"
+    email: "sarahmckenzie@gmail.com"
+    address:
+      streetName: "Warm Street"
+      houseNumber: 19
+      suburb: "Belville"
+      province: "Western Cape"

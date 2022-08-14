@@ -1,0 +1,18 @@
+---
+  clientId: 2
+  firstName: "Damian"
+  lastName: "Square"
+  occupation: "Trainee Accountant"
+  age: 25
+  hobbies:
+    - drumming
+    - watching sports
+    - working out
+  contactDetails:
+    cellphone: "064846451484"
+    email: "damiansquare@gmail.com"
+    address:
+      streetName: "Clover Road"
+      houseNumber: 7
+      suburb: "Belville"
+      province: "Western Cape"
